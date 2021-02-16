@@ -1,0 +1,7 @@
+Required libraries
+1. Numpy
+2. Pandas
+3. NLTK
+4. Random
+5. Sklearn.tree (DecisionTreeClassifier)
+6. xgboost (XGBClassifier)
